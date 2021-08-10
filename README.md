@@ -1,7 +1,7 @@
 # Stock Discord bot
 This is a very simple discord bot that can show you recent prices and other things. You can implement it in any discord channel that will accept bots and use the commands to display different information. 
 ## Requirements
-Alpha Vantage key
+Alpha Vantage key: found [here](https://www.alphavantage.co/support/#api-key)
 
 finvizfinance api: https://pypi.org/project/finvizfinance/
 
